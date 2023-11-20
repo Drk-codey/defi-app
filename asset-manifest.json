@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/defi-app/static/css/main.b71c3ad0.css",
+    "main.js": "/defi-app/static/js/main.b5549ed8.js",
+    "static/js/787.d4aba7ab.chunk.js": "/defi-app/static/js/787.d4aba7ab.chunk.js",
+    "static/media/hero.svg": "/defi-app/static/media/hero.b08317a7d52c6a2bd97f3b40bf20f8c5.svg",
+    "static/media/dev.svg": "/defi-app/static/media/dev.19f6612f5fa374d900af28019eb357e4.svg",
+    "static/media/blockchain2.jpg": "/defi-app/static/media/blockchain2.cc6a2220571f1101341d.jpg",
+    "static/media/blockchain1.jpg": "/defi-app/static/media/blockchain1.5ef3fb08d06ca8c5580d.jpg",
+    "static/media/blockchain3.jpg": "/defi-app/static/media/blockchain3.a993961601b1fbe30016.jpg",
+    "static/media/insurance1.svg": "/defi-app/static/media/insurance1.5d8161dcc687c93267a74665ad29a72c.svg",
+    "static/media/wallet1.svg": "/defi-app/static/media/wallet1.5f22fe743d84027aad95111599b03bd8.svg",
+    "static/media/discord2.svg": "/defi-app/static/media/discord2.4e00e15f7a125f1259e76932aaccec6c.svg",
+    "static/media/discord.svg": "/defi-app/static/media/discord.f499d163e5b8eb0af65229dc6e9efe43.svg",
+    "static/media/blog.svg": "/defi-app/static/media/blog.e354c036b7319067dcd81b463c6c4cbb.svg",
+    "static/media/youtube2.svg": "/defi-app/static/media/youtube2.ae5aa12c038b37e8932076d273245bc4.svg",
+    "static/media/twitter.svg": "/defi-app/static/media/twitter.edbe6c9773fe9219097577d136c880f0.svg",
+    "static/media/youtube.svg": "/defi-app/static/media/youtube.1f30f6d5e3cede87f331dc8737e077bd.svg",
+    "index.html": "/defi-app/index.html",
+    "static/media/menu.svg": "/defi-app/static/media/menu.3c6d26e95d49a925eac3ab47f232f842.svg",
+    "static/media/telegram.svg": "/defi-app/static/media/telegram.4907a7c8baadc09079742f3582dd478c.svg",
+    "static/media/paper.svg": "/defi-app/static/media/paper.787d56f59f2c311df111d1c34a58a7a6.svg",
+    "static/media/search.svg": "/defi-app/static/media/search.517f20f7067ddc194ae21d1680c6b6ec.svg",
+    "main.b71c3ad0.css.map": "/defi-app/static/css/main.b71c3ad0.css.map",
+    "main.b5549ed8.js.map": "/defi-app/static/js/main.b5549ed8.js.map",
+    "787.d4aba7ab.chunk.js.map": "/defi-app/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b71c3ad0.css",
+    "static/js/main.b5549ed8.js"
+  ]
+}
